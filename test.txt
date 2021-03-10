@@ -1,0 +1,5 @@
+원격저장소(github)로 협업하기
+
+- 나는 변함없고 원격이 변한 경우 : pull & push
+- 나도 변했고 원격도 변한 경우 : pull request
+* push 권한 주기 (collaboration 추가)
